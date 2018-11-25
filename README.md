@@ -62,7 +62,7 @@ The goals / steps of this project are the following:
 [image5]: ./output_images/perspective2.png "Warp Example"
 [image6]: ./output_images/finding.png "Fit Visual"
 [image7]: ./output_images/output.png "Output"
-[video1]: ./output_video.mp4 "Video"
+[video1]: ./output_video.gif "Video"
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
 ### Here I will consider the rubric points individually and describe how I addressed each point in my implementation.  
@@ -157,7 +157,7 @@ I implemented this step in the 22th code cell of notebook in the function `drawi
 
 #### 1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
 
-Here's a [link to my video result](./output_video.mp4)
+![Video][video1]
 
 ---
 
